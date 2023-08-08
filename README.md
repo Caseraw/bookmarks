@@ -27,6 +27,10 @@ A collection of bookmarks and links.
     - https://kubectl.docs.kubernetes.io/guides/
     - https://kubectl.docs.kubernetes.io/references/kubectl/
     - https://kubectl.docs.kubernetes.io/references/kustomize/
+- Kustomize:
+    - https://kustomize.io/
+- Helm:
+    - https://helm.sh/
 
 # OpenShift
 
@@ -43,3 +47,30 @@ A collection of bookmarks and links.
     - https://github.com/argoproj-labs/argocd-operator
 - ArgoCD Labs Operator examples:
     - https://github.com/argoproj-labs/argocd-operator/tree/master/examples
+
+# OCI registries
+
+- Zot Registry:
+    - https://zotregistry.io/
+
+# OCI artifacts
+
+- ORAS:
+    - https://github.com/oras-project/oras
+    - https://oras.land/
+
+# Communication
+
+- Slack:
+    - https://slack.com/
+- Discord:
+    - https://discord.com/
+- Telegram:
+    - https://web.telegram.org/
+
+# Social
+
+- Twitter / X:
+    - https://twitter.com/
+- Mastodon:
+    - https://mastodon.social/
