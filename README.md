@@ -74,3 +74,18 @@ A collection of bookmarks and links.
     - https://twitter.com/
 - Mastodon:
     - https://mastodon.social/
+
+# AI/ML
+
+- Google:
+    - https://bard.google.com
+- OpenAI:
+    - https://chat.openai.com
+    - https://platform.openai.com
+- You:
+    - https://you.com
+
+# Prompt engineering
+
+- FlowGPT:
+    - https://flowgpt.com
