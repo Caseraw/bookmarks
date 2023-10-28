@@ -93,6 +93,8 @@ A collection of bookmarks and links.
     - https://you.com
 - Claude:
     - https://claude.ai
+- GAN - this person does not exist:
+    - https://thispersondoesnotexist.com
 
 # Prompt engineering
 
