@@ -48,6 +48,13 @@ A collection of bookmarks and links.
 - ArgoCD Labs Operator examples:
     - https://github.com/argoproj-labs/argocd-operator/tree/master/examples
 
+# Playgrounds
+
+- KillerCoda:
+    - https://killercoda.com/
+- Red Hat DevSpaces:
+    - https://developers.redhat.com/developer-sandbox/ide
+
 # OCI registries
 
 - Zot Registry:
